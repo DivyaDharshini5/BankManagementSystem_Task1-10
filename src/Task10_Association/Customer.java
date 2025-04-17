@@ -15,8 +15,8 @@ public class Customer {
         this.customerId = customerId;
         this.firstName = firstName;
         this.lastName = lastName;
-        setEmail(email);   // Email validation
-        setPhone(phone);   // Phone validation
+        setEmail(email);   
+        setPhone(phone);   
         this.address = address;
     }
 
